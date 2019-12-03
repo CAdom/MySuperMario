@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MySuperMario.unity
+    path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/UI_Register.unity
-    guid: 87af2fcf6c8343744996d9a7a1edc06e
-  - enabled: 1
-    path: Assets/Scenes/UI_Login.unity
-    guid: bb55de715e286c24892875d471506edf
   m_configObjects: {}
